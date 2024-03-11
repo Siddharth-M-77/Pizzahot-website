@@ -1,0 +1,216 @@
+@media only screen and (max-width: 1399px) {
+    #logo img {
+        width: 90%;
+    }
+
+    .my-nav .nav-contain {
+        gap: 2rem;
+    }
+
+    .my-nav .log-sign-btn .log-in,
+    .my-nav .log-sign-btn .sign-in {
+        font-size: 1rem;
+    }
+
+    /* Footer section */
+    footer .logo-contain-2 {
+        width: 80%;
+        padding-bottom: 1.25rem;
+    }
+
+    footer h4 {
+        font-size: 1.5rem;
+    }
+
+    footer form input {
+        width: 150px;
+    }
+
+    footer .payment-contain {
+        gap: 1rem;
+        padding-top: 1.25rem;
+    }
+
+    footer .payment-contain img {
+        width: 40px;
+    }
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1199px) {
+    .logo-contain {
+        width: 25%;
+    }
+
+    #logo img {
+        width: 100%;
+    }
+
+    .my-nav .nav-contain {
+        gap: 1.5rem;
+    }
+    #about .right {
+        padding-left: 1.5rem;
+    }
+    /* Test section */
+    #test .last {
+        display: none;
+    }
+
+    /* App section */
+    #app .title {
+        font-size: 2.75rem;
+        padding-bottom: 0.75rem;
+    }
+    /* Footer section */
+    footer .logo-contain-2 {
+        width: 80%;
+        padding-bottom: 1.25rem;
+    }
+
+    footer h4 {
+        font-size: 1.5rem;
+    }
+
+    footer form input {
+        width: 150px;
+    }
+
+    footer .payment-contain {
+        gap: 1rem;
+        padding-top: 1.25rem;
+    }
+
+    footer .payment-contain img {
+        width: 40px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .title {
+        font-size: 2.75rem;
+    }
+    /* Nav-bar section */
+    .my-nav .navigation,
+    .my-nav .log-sign-btn {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    #about .right {
+        margin-top: 3rem;
+        padding-left: 0;
+    }
+
+    /* Test section */
+    #test .inner-test {
+        margin-bottom: 1.5rem;
+    }
+
+    /* App section */
+    #app .left {
+        margin-bottom: 4rem;
+    }
+    footer form input {
+        width: 190px;
+    }
+    footer .payment-contain {
+        gap: 1rem;
+    }
+    footer .payment-contain img {
+        width: 54px;
+    }
+    footer .info-com,
+    footer .links-foot,
+    footer .news {
+        margin-bottom: 2rem;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .title {
+        font-size: 2.5rem;
+    }
+    .logo-contain {
+        width: 50%;
+    }
+
+    #logo img {
+        width: 100%;
+    }
+    /* Footer section */
+    footer .logo-contain-2 {
+        width: 50%;
+    }
+    footer form input {
+        width: 70%;
+    }
+    footer .payment-contain img {
+        width: 60px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    header {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    #about .right {
+        padding-left: 0.75rem;
+    }
+    footer form input {
+        width: 72%;
+    }
+}
+
+@media only screen and (max-width: 517px) {
+    #hero h1 {
+        font-size: 2rem;
+    }
+    #hero h5 {
+        font-size: 1.5rem;
+    }
+    footer form input {
+        width: 69%;
+    }
+}
+
+@media only screen and (max-width: 475px) {
+    header {
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+    }
+    .title {
+        font-size: 2.125rem;
+    }
+    footer form input {
+        width: 65%;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .title {
+        font-size: 2rem;
+    }
+    footer form input {
+        width: 62%;
+    }
+    footer .payment-contain img {
+        width: 55px;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .title {
+        font-size: 2rem;
+    }
+    header {
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+    }
+    footer form input {
+        width: 58%;
+    }
+}
